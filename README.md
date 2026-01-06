@@ -17,3 +17,7 @@ Los proyectos se irán incorporando y actualizando progresivamente.
 ## Lenguajes
 - Julia
 
+## Índice
+
+1. [Método de elementos finitos en 2D](FEM_2D.ipynb)  
+   Resolución de una EDP elíptica con visualización de resultados.
